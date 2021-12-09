@@ -40,7 +40,7 @@ export default function Home() {
       </div>
 
 
-
+      
       <section id="sec1" >
         <div className={styles.sec1}>
           <Carousel>
