@@ -79,6 +79,24 @@ const school = () => {
 
                     </div>
 
+                     <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/06.jpg"
+                            />
+                            <h2>นางลดาวัลย์ พิรุนสุนทร</h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
+                        </center>
+
+                    </div>
+                    
+         
+                </div>
+
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -139,29 +157,6 @@ const school = () => {
                     </div>
 
                 </div>
-
-
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/06.jpg"
-                            />
-                            <h2>นางลดาวัลย์ พิรุนสุนทร</h2>
-                            <h3>ครูชำนาญการพิเศษ</h3>
-                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
-                        </center>
-
-                    </div>
-                    
-                   
-                </div>
-
-
-
-
 
                 <div className={personalstyles.row3}>
                     <div className={personalstyles.pic00}>
