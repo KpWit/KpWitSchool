@@ -185,8 +185,8 @@ const school = () => {
                         <center>
                             <Image
                                 className={personalstyles.pic01}
-                                width={180}
-                                height={230}
+                                width={200}
+                                height={161.5}
                                 src="/14.jpg"
                             />
                             <h2>นางสาวสุพรรษา  อ้นเวียง </h2>
