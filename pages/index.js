@@ -48,14 +48,7 @@ export default function Home() {
               <Image
                 width={1080}
                 height={540}
-                src="/news1.jpg"
-              />
-            </Carousel.Item>
-            <Carousel.Item>
-              <Image
-                width={1080}
-                height={540}
-                src="/news2.jpg"
+                src="/ITA.png"
               />
             </Carousel.Item>
 
