@@ -227,7 +227,7 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/13.jpg"
+                                src="/17.jpg"
                             />
 
                             <h2>นางสาวรัตติกาล บุญทองโท </h2>
