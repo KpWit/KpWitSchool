@@ -32,7 +32,8 @@ const school = () => {
                     </div>
 
                 </div>
-                <div className={personalstyles.pic00}>
+                <div className={personalstyles.row2}>
+                    <div className={personalstyles.pic00}>
                         <center>
                             <Image
                                 className={personalstyles.pic01}
