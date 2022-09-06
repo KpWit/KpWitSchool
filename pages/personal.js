@@ -33,6 +33,7 @@ const school = () => {
 
                 </div>
                
+                <div className={personalstyles.row2}>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -48,6 +49,36 @@ const school = () => {
 
                     </div>
                 
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/09.jpg"
+                            />
+                            <h2>นายทีปกร อ่างบุญตา </h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h3>ศิลปะ</h3>
+                        </center>
+
+                    </div>
+
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/05.jpg"
+                            />
+                            <h2>นายธานินทร์ บุญก่อน </h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
+                        </center>
+
+                    </div>
+
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -109,21 +140,6 @@ const school = () => {
 
                 </div>
 
-                <div className={personalstyles.row2}>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/05.jpg"
-                            />
-                            <h2>นายธานินทร์ บุญก่อน </h2>
-                            <h3>ครูชำนาญการพิเศษ</h3>
-                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
-                        </center>
-
-                    </div>
 
                     <div className={personalstyles.pic00}>
                         <center>
@@ -140,21 +156,7 @@ const school = () => {
 
                     </div>
                     
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/09.jpg"
-                            />
-                            <h2>นายทีปกร อ่างบุญตา </h2>
-                            <h3>ครูชำนาญการพิเศษ</h3>
-                            <h3>ศิลปะ</h3>
-                        </center>
-
-                    </div>
-
+                   
                 </div>
 
 
