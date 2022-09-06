@@ -194,24 +194,6 @@ const school = () => {
                             <h4>ภาษาไทย</h4>
                         </center>
 
-                    </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/10.jpg"
-                            />
-                            <h2>นายกรยุทธ ชูศรีโฉม </h2>
-                            <h3>ครู</h3>
-                            <h3>การงานอาชีพ</h3>
-                        </center>
-
-                    </div>
-
-
-
                 </div>
                 <hr />
                 <div className={personalstyles.row4}>
