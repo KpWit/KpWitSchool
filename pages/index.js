@@ -43,16 +43,12 @@ export default function Home() {
       
       <section id="sec1" >
         <div className={styles.sec1}>
-          <Carousel>
-            <Carousel.Item>
               <Image
                 width={1080}
                 height={540}
                 src="/ITA.png"
               />
-            </Carousel.Item>
-
-          </Carousel>
+            
         </div>
 
       </section>
