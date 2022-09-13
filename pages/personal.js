@@ -93,7 +93,6 @@ const school = () => {
                         </center>
 
                     </div>
-                    
          
                 </div>
 
@@ -126,6 +125,7 @@ const school = () => {
                         </center>
 
                     </div>
+
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -187,7 +187,7 @@ const school = () => {
                             <h4>ภาษาไทย</h4>
                         </center>
 
-                </div>
+                    </div>
 
                     <div className={personalstyles.pic00}>
                         <center>
@@ -201,7 +201,7 @@ const school = () => {
                             <h3>ครูผู้ช่วย</h3>
                             <h4>คณิตศาสตร์</h4>
                         </center>
-
+                    </div>
                 </div>
 
                     <div className={personalstyles.pic00}>
