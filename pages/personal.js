@@ -32,23 +32,7 @@ const school = () => {
                     </div>
 
                 </div>
-               
-                <div className={personalstyles.row2}>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/08.jpg"
-                            />
-                            <h2>นายไพฑูรย์ กวยทองเปลว </h2>
-                            <h3>ครูชำนาญการพิเศษ</h3>
-                            <h3>ศิลปะ</h3>
-                        </center>
-
-                    </div>
-                
+           
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
