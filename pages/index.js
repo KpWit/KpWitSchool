@@ -43,11 +43,13 @@ export default function Home() {
       
       <section id="sec1" >
         <div className={styles.sec1}>
+            <a href="https://sites.google.com/view/btts-oit">
               <Image
                 width={1080}
                 height={290}
                 src="/ITA.png"
               />
+            </a>
             
         </div>
 
