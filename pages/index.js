@@ -42,7 +42,7 @@ export default function Home() {
 
       
       <section id="sec1" >
-        <div className={clclick ? styles.sec1}>
+        <div className={click ? styles.sec1}>
               <Image
                 width={1080}
                 height={540}
