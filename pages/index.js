@@ -42,11 +42,11 @@ export default function Home() {
 
       
       <section id="sec1" >
-        <div className={styles.sec1}>
+        <div className={clclick ? styles.sec1}>
               <Image
                 width={1080}
                 height={540}
-                src="/ITA.png"
+                <Link href='/school'> src="/ITA.png" </Link>
               />
             
         </div>
