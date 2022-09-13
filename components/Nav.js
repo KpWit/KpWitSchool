@@ -67,7 +67,7 @@ useEffect(() => {
                         <Link href='/activity'><button>กิจกรรม</button></Link>
                     </li>
                     <li>
-                        <Link href='/activity'><button>OTA</button></Link>
+                        <Link href='/activity'><button>ITA</button></Link>
                     </li>
                     <li>
                         <Link href='/contact'><button>ติดต่อเรา</button></Link>
