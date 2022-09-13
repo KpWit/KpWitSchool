@@ -45,8 +45,8 @@ export default function Home() {
         <div className={click ? styles.sec1}>
               <Image
                 width={1080}
-                height={540}
-                <Link href='/school'> src="/ITA.png" </Link>
+                height={290}
+                <Link href='/school' src="/ITA.png"></Link>
               />
             
         </div>
