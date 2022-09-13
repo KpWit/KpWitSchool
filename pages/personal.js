@@ -62,11 +62,11 @@ const school = () => {
                                     className={personalstyles.pic01}
                                     width={180}
                                     height={230}
-                                    src="/02.jpg"
+                                    src="/05.jpg"
                             />
-                                <h2>นางสาววฤนดา เข็มพิลา</h2>
+                                <h2>นายธานินทร์ บุญก่อน </h2>
                                 <h3>ครูชำนาญการพิเศษ</h3>
-                                <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                                <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -75,11 +75,11 @@ const school = () => {
                                     className={personalstyles.pic01}
                                     width={180}
                                     height={230}
-                                    src="/05.jpg"
+                                    src="/02.jpg"
                             />
-                                <h2>นายธานินทร์ บุญก่อน </h2>
+                                <h2>นางสาววฤนดา เข็มพิลา</h2>
                                 <h3>ครูชำนาญการพิเศษ</h3>
-                                <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
+                                <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
                 </div>
@@ -142,8 +142,8 @@ const school = () => {
                         <center>
                             <Image
                                 className={personalstyles.pic01}
-                                width={200}
-                                height={161.5}
+                                width={180}
+                                height={230}
                                 src="/14.jpg"
                             />
                             <h2>นางสาวสุพรรษา  อ้นเวียง </h2>
@@ -157,19 +157,6 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/04.jpg"
-                            />
-                            <h2>นายศักดิ์ดา ประจิตร </h2>
-                            <h3>พนักงานราชการ</h3>
-                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
-                        </center>
-                    </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={200}
-                                height={161.5}
                                 src="/15.jpg"
                             />
                             <h2>นางสาวสุชาดา  ชัยยะ </h2>
@@ -181,13 +168,26 @@ const school = () => {
                         <center>
                             <Image
                                 className={personalstyles.pic01}
-                                width={200}
-                                height={161.5}
+                                width={180}
+                                height={230}
                                 src="/16.jpg"
                             />
                             <h2>นางสาวเจตปรียา บุญเสริม </h2>
                             <h3>ครูผู้ช่วย</h3>
                             <h4>วิทยาศาสตร์และเทคโนโลยี</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/04.jpg"
+                            />
+                            <h2>นายศักดิ์ดา ประจิตร </h2>
+                            <h3>พนักงานราชการ</h3>
+                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
                 </div>
