@@ -137,7 +137,7 @@ const school = () => {
                         </center>
                     </div>
                 </div>
-                <div className={personalstyles.row4}>
+                <div className={personalstyles.row3}>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -205,7 +205,7 @@ const school = () => {
                     </div>
                 </div>
                 <hr />
-                <div className={personalstyles.row6}>
+                <div className={personalstyles.row4}>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
