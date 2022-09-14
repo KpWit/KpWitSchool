@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@KpWit 
+KpWit
+/
+KpWitSchool
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+KpWitSchool/pages/personal.js /
+@KpWit
+KpWit Update personal.js
+Latest commit 4519c9c in 19 seconds
+ History
+ 2 contributors
+@KpWit@Saridraj
+243 lines (238 sloc)  11.5 KB
+
 import Nav from '../components/Nav.js'
 import personalstyles from '../styles/personal.module.css'
 import Footer from '../components/Footer.js'
@@ -191,13 +221,13 @@ const school = () => {
                         </center>
                     </div>
                  </div>
-                 <div className={personalstyles.pic00}>
-                      <center>
-                          <Image
-                              className={personalstyles.pic01}
-                              width={180}
-                              height={230}
-                              src="/04.jpg"
+                <div className={personalstyles.pic00}>
+                    <center>
+                        <Image
+                            className={personalstyles.pic01}
+                            width={180}
+                            height={230}
+                            src="/04.jpg"
                           />
                           <h2>นายศักดิ์ดา ประจิตร </h2>
                           <h3>พนักงานราชการ</h3>
@@ -240,4 +270,19 @@ const school = () => {
 }
 
 export default school
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
 
