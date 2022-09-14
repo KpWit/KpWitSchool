@@ -224,13 +224,14 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/18.jpg"
+                                src="/04.jpg"
                             />
-                            <h2>นายอธิวัฒน์  แสงก่ำ </h2>
-                            <h3>ครูผู้ช่วย</h3>
-                            <h4>สุขศึกษาและพละศึกษา</h4>
+                            <h2>นายศักดิ์ดา ประจิตร </h2>
+                            <h3>พนักงานราชการ</h3>
+                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
+                 </div>
                 </div>
                 <hr />
                 <div className={personalstyles.row4}>
