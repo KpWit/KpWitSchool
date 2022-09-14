@@ -269,4 +269,4 @@ const school = () => {
     )
 }
 
-export default schoo
+export default school
