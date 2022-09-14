@@ -137,7 +137,7 @@ const school = () => {
                         </center>
                     </div>
                 </div>
-                <div className={personalstyles.row4}>
+                <div className={personalstyles.row3}>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -190,9 +190,22 @@ const school = () => {
                             <h4>สุขศึกษาและพละศึกษา</h4>
                         </center>
                     </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/04.jpg"
+                            />
+                            <h2>นายศักดิ์ดา ประจิตร </h2>
+                            <h3>พนักงานราชการ</h3>
+                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                        </center>
+                    </div>
                 </div>
                 <hr />
-                <div className={personalstyles.row6}>
+                <div className={personalstyles.row4}>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
@@ -213,6 +226,7 @@ const school = () => {
                                 height={230}
                                 src="/12.jpg"
                             />
+
                             <h2>นายนิพลธ์ หมายชัย </h2>
                             <h3>นักการภารโรง</h3>
                         </center>
