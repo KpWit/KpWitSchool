@@ -235,7 +235,7 @@ const school = () => {
                             <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
-                  </div>
+                 </div>
                 <hr />
                 <div className={personalstyles.row6}>
                     <div className={personalstyles.pic00}>
