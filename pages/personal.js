@@ -205,32 +205,6 @@ const school = () => {
                             <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/04.jpg"
-                            />
-                            <h2>นายศักดิ์ดา ประจิตร </h2>
-                            <h3>พนักงานราชการ</h3>
-                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
-                        </center>
-                    </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/04.jpg"
-                            />
-                            <h2>นายศักดิ์ดา ประจิตร </h2>
-                            <h3>พนักงานราชการ</h3>
-                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
-                        </center>
-                    </div>
                 </div>
                 <hr />
                 <div className={personalstyles.row6}>
