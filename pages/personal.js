@@ -167,6 +167,60 @@ const school = () => {
                         </center>
                     </div>
                 </div>
+                <div className={personalstyles.row3}>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/11.jpg"
+                            />
+                            <h2>นางกอบกูล ศรีคำมี  </h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h4>ภาษาต่างประเทศ</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/06.jpg"
+                            />
+                            <h2>นางลดาวัลย์ พิรุนสุนทร</h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/01.jpg"
+                            />
+                            <h2>นายศุภกิจ ถือศิล</h2>
+                            <h3>ครู</h3>
+                            <h3>คณิตศาสตร์</h3>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                    className={personalstyles.pic01}
+                                    width={180}
+                                    height={230}
+                                    src="/03.jpg"
+                            />
+                                <h2>นายพัฒนากร ศรีพรม</h2>
+                                <h3>ครูผู้ช่วย</h3>
+                                <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                        </center>
+                    </div>
+                </div>
                 <div className={personalstyles.row4}>
                     <div className={personalstyles.pic00}>
                         <center>
