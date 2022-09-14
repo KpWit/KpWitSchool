@@ -198,6 +198,19 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
+                                src="/14.jpg"
+                            />
+                            <h2>นางสาวสุพรรษา  อ้นเวียง </h2>
+                            <h3>ครูผู้ช่วย</h3>
+                            <h4>ภาษาไทย</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
                                 src="/15.jpg"
                             />
                             <h2>นางสาวสุชาดา  ชัยยะ </h2>
