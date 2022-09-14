@@ -190,6 +190,7 @@ const school = () => {
                             <h4>สุขศึกษาและพละศึกษา</h4>
                         </center>
                     </div>
+                 </div>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
