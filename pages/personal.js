@@ -183,6 +183,19 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
+                                src="/18.jpg"
+                            />
+                            <h2>นายอธิวัฒน์  แสงก่ำ </h2>
+                            <h3>ครูผู้ช่วย</h3>
+                            <h4>สุขศึกษาและพละศึกษา</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
                                 src="/04.jpg"
                             />
                             <h2>นายศักดิ์ดา ประจิตร </h2>
