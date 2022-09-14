@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@KpWit 
-KpWit
-/
-KpWitSchool
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-KpWitSchool/pages/personal.js /
-@KpWit
-KpWit Update personal.js
-Latest commit 4519c9c in 19 seconds
- History
- 2 contributors
-@KpWit@Saridraj
-243 lines (238 sloc)  11.5 KB
-
 import Nav from '../components/Nav.js'
 import personalstyles from '../styles/personal.module.css'
 import Footer from '../components/Footer.js'
