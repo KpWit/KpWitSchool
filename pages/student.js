@@ -29,29 +29,29 @@ const school = () => {
     <tbody>
       <tr>
         <td>มัธยมศึกษาปีที่ 1</td>
-        <td>24</td>
-        <td>15</td>
-        <td>39</td>
+        <td>20</td>
+        <td>17</td>
+        <td>37</td>
         <td>2</td>
       </tr>
       <tr>
         <td>มัธยมศึกษาปีที่ 2</td>
-        <td>22</td>
-        <td>22</td>
-        <td>44</td>
+        <td>25</td>
+        <td>17</td>
+        <td>42</td>
         <td>2</td>
       </tr>
       <tr>
         <td>มัธยมศึกษาปีที่ 3</td>
-        <td>16</td>
-        <td>27</td>
-        <td>43</td>
+        <td>24</td>
+        <td>23</td>
+        <td>47</td>
         <td>2</td>
       </tr>
       <tr>
         <td>รวมมัธยมศึกษาตอนต้น&nbsp;&nbsp;&nbsp;</td>
-        <td>62</td>
-        <td>64</td>
+        <td>69</td>
+        <td>57</td>
         <td>126</td>
         <td>6</td>
       </tr>
@@ -70,30 +70,30 @@ const school = () => {
     <tbody>
       <tr>
         <td>มัธยมศึกษาปีที่ 4</td>
-        <td >22</td>
-        <td>16</td>
-        <td>38</td>
+        <td >17</td>
+        <td>29</td>
+        <td>46</td>
         <td>2</td>
       </tr>
       <tr>
         <td>มัธยมศึกษาปีที่ 5</td>
-        <td>20</td>
-        <td>25</td>
-        <td>45</td>
+        <td>21</td>
+        <td>16</td>
+        <td>37</td>
         <td>2</td>
       </tr>
       <tr>
         <td>มัธยมศึกษาปีที่ 6</td>
-        <td>6</td>
-        <td>12</td>
-        <td>18</td>
+        <td>17</td>
+        <td>23</td>
+        <td>40</td>
         <td>2</td>
       </tr>
       <tr>
         <td>รวมมัธยมศึกษาตอนปลาย</td>
-        <td>48</td>
-        <td>53</td>
-        <td>101</td>
+        <td>55</td>
+        <td>68</td>
+        <td>123</td>
         <td>6</td>
       </tr>
       </tbody>
