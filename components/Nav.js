@@ -67,7 +67,7 @@ useEffect(() => {
                         <Link href='/activity'><button>กิจกรรม</button></Link>
                     </li>
                     <li>
-                        <Link href='https://shorturl.asia/jnJPB'><button>ITA</button></Link>
+                        <Link href='https://shorturl.asia/jnJPB'><button>การเปิดเผยข้อมูล OIT</button></Link>
                     </li>
                     <li>
                         <Link href='/contact'><button>ติดต่อเรา</button></Link>
