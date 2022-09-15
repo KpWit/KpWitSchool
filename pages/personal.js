@@ -64,7 +64,7 @@ const school = () => {
                                     className={personalstyles.pic01}
                                     width={180}
                                     height={230}
-                                    src="/05.jpg"
+                                    src="/4.png"
                             />
                                 <h2>นายธานินทร์ บุญก่อน </h2>
                                 <h3>ครูชำนาญการพิเศษ</h3>
@@ -78,11 +78,11 @@ const school = () => {
                                     className={personalstyles.pic01}
                                     width={180}
                                     height={230}
-                                    src="/02.jpg"
+                                    src="/9.png"
                             />
-                                <h2>นางสาววฤนดา เข็มพิลา</h2>
-                                <h3>ครูชำนาญการพิเศษ</h3>
-                                <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                                <h2>นายศุภกร สังวังเลาว์</h2>
+                                <h3>ครูผู้ช่วย</h3>
+                                <h3>กลุ่มสาระฯ : วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
                 </div>
@@ -93,11 +93,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/11.jpg"
+                                src="/5.png"
                             />
-                            <h2>นางกอบกูล ศรีคำมี  </h2>
+                            <h2>นางลดาวัลย์ พิรุนสุนทร  </h2>
                             <h3>ครูชำนาญการพิเศษ</h3>
-                            <h4>ภาษาต่างประเทศ</h4>
+                            <h4>กลุ่มสาระฯ : สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -106,11 +106,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/06.jpg"
+                                src="/6.png"
                             />
-                            <h2>นางลดาวัลย์ พิรุนสุนทร</h2>
+                            <h2>นางกอบกูล ศรีคำมี</h2>
                             <h3>ครูชำนาญการพิเศษ</h3>
-                            <h4>สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
+                            <h4>กลุ่มสาระฯ : ภาษาต่างประเทศ</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -119,11 +119,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/01.jpg"
+                                src="/7.png"
                             />
-                            <h2>นายศุภกิจ ถือศิล</h2>
-                            <h3>ครู</h3>
-                            <h3>คณิตศาสตร์</h3>
+                            <h2>นางสาววฤนดา เข็มพิลา</h2>
+                            <h3>ครูชำนาญการพิเศษ</h3>
+                            <h3>กลุ่มสาระฯ : วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -132,11 +132,11 @@ const school = () => {
                                     className={personalstyles.pic01}
                                     width={180}
                                     height={230}
-                                    src="/03.jpg"
+                                    src="/8.png"
                             />
-                                <h2>นายพัฒนากร ศรีพรม</h2>
-                                <h3>ครูผู้ช่วย</h3>
-                                <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                                <h2>นายศุภกร ถือศีล</h2>
+                                <h3>ครู</h3>
+                                <h3>กลุ่มสาระฯ : คณิตศาสตร์</h3>
                         </center>
                     </div>
                 </div>
@@ -147,11 +147,24 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/14.jpg"
+                                src="/10.png"
+                            />
+                            <h2>นายพัฒนากร ศรีพรม </h2>
+                            <h3>ครูผู้ช่วย</h3>
+                            <h4>กลุ่มสาระฯ : วิทยาศาสตร์และเทคโนโลยี</h4>
+                        </center>
+                    </div>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/11.png"
                             />
                             <h2>นางสาวสุพรรษา  อ้นเวียง </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>ภาษาไทย</h4>
+                            <h4>กลุ่มสาระฯ : ภาษาไทย</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -160,11 +173,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/15.jpg"
+                                src="/12.png"
                             />
                             <h2>นางสาวสุชาดา  ชัยยะ </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>คณิตศาสตร์</h4>
+                            <h4>กลุ่มสาระฯ : คณิตศาสตร์</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -173,24 +186,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/16.jpg"
+                                src="/13.png"
                             />
                             <h2>นางสาวเจตปรียา บุญเสริม </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>วิทยาศาสตร์และเทคโนโลยี</h4>
-                        </center>
-                    </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/18.jpg"
-                            />
-                            <h2>นายอธิวัฒน์  แสงก่ำ </h2>
-                            <h3>ครูผู้ช่วย</h3>
-                            <h4>สุขศึกษาและพละศึกษา</h4>
+                            <h4>กลุ่มสาระฯ : วิทยาศาสตร์และเทคโนโลยี</h4>
                         </center>
                     </div>
                 </div>
@@ -201,11 +201,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/kp15.jpg"
+                                src="/14.png"
                             />
                             <h2>นายอธิวัฒน์  แสงก่ำ </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>สุขศึกษาและพละศึกษา</h4>
+                            <h4>กลุ่มสาระฯ : สุขศึกษาและพละศึกษา</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -214,11 +214,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/kp16.jpg"
+                                src="/15.png"
                             />
                             <h2>นายธนวัฒน์  พรมศักดิ์ </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>การงานอาชีพ</h4>
+                            <h4>กลุ่มสาระฯ : การงานอาชีพ</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -227,11 +227,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/04.jpg"
+                                src="/16.png"
                             />
                             <h2>นายศักดิ์ดา ประจิตร </h2>
                             <h3>พนักงานราชการ</h3>
-                            <h3>วิทยาศาสตร์และเทคโนโลยี</h3>
+                            <h3>กลุ่มสาระฯ : วิทยาศาสตร์และเทคโนโลยี</h3>
                         </center>
                     </div>
                 </div>
