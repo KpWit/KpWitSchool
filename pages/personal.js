@@ -50,7 +50,7 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/09.jpg"
+                                src="/3.png"
                             />
                                 <h2>นายทีปกร อ่างบุญตา </h2>
                                 <h3>ครูชำนาญการพิเศษ</h3>
