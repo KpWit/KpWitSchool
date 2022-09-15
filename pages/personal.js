@@ -256,7 +256,7 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/12.jpg"
+                                src="/18.png"
                             />
 
                             <h2>นายนิพลธ์ หมายชัย </h2>
