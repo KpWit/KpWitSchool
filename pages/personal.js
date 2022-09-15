@@ -198,11 +198,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/15.jpg"
+                                src="/kp15.jpg"
                             />
-                            <h2>นางสาวสุชาดา  ชัยยะ </h2>
+                            <h2>นายอธิวัฒน์  แสงก่ำ </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>คณิตศาสตร์</h4>
+                            <h4>สุขศึกษาและพละศึกษา</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
@@ -211,11 +211,11 @@ const school = () => {
                                 className={personalstyles.pic01}
                                 width={180}
                                 height={230}
-                                src="/16.jpg"
+                                src="/kp16.jpg"
                             />
-                            <h2>นางสาวเจตปรียา บุญเสริม </h2>
+                            <h2>นายธนวัฒน์  พรมศักดิ์ </h2>
                             <h3>ครูผู้ช่วย</h3>
-                            <h4>วิทยาศาสตร์และเทคโนโลยี</h4>
+                            <h4>การงานอาชีพ</h4>
                         </center>
                     </div>
                     <div className={personalstyles.pic00}>
