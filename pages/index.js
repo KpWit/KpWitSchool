@@ -57,7 +57,6 @@ export default function Home() {
 
       <section id="sec2" >
         <div className={styles.sec1}>
-            <a href="https://shorturl.asia/jnJPB">
               <Image
                 width={1080}
                 height={1080}
