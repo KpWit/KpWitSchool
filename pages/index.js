@@ -55,6 +55,19 @@ export default function Home() {
 
       </section>
 
+      <section id="sec2" >
+        <div className={styles.sec1}>
+            <a href="https://shorturl.asia/jnJPB">
+              <Image
+                width={1080}
+                height={1080}
+                src="03.ป้ายโปสเตอร์ - 13ตุลา.png"
+              />
+            </a>
+            
+        </div>
+
+      </section>
 
       <section id="sec2" >
         <div className={styles.sec2}>
