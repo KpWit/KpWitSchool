@@ -39,7 +39,18 @@ export default function Home() {
         </div>
       </div>
 
+      <section id="sec1" >
+        <div className={styles.sec1}>
+              <Image
+                width={1080}
+                height={1080}
+                src="03.ป้ายโปสเตอร์ - 13ตุลา.png"
+              />
+            </a>
+            
+        </div>
 
+      </section>
       
       <section id="sec1" >
         <div className={styles.sec1}>
@@ -48,19 +59,6 @@ export default function Home() {
                 width={1080}
                 height={290}
                 src="/ITA.png"
-              />
-            </a>
-            
-        </div>
-
-      </section>
-
-      <section id="sec2" >
-        <div className={styles.sec1}>
-              <Image
-                width={1080}
-                height={1080}
-                src="03.ป้ายโปสเตอร์ - 13ตุลา.png"
               />
             </a>
             
