@@ -52,7 +52,7 @@ export default function Home() {
 
       </section>
       
-      <section id="sec1" >
+      <section id="sec2" >
         <div className={styles.sec1}>
             <a href="https://shorturl.asia/jnJPB">
               <Image
