@@ -54,10 +54,9 @@ export default function Home() {
 
       <section id="sec1" >
         <div className={styles.sec1}>
-            <a href="https://shorturl.asia/jnJPB">
               <Image
-                width={1080}
-                height={290}
+                width={1600}
+                height={750}
                 src="/034 เจตจำนงสุจริตของผู้บริหาร และนโยบายไม่รับของขวัญ.png"
               />
             </a>
