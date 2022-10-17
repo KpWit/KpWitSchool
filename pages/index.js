@@ -50,6 +50,7 @@ export default function Home() {
             </a>
             
         </div>
+      </section>
 
       <section id="sec2" >
         <div className={styles.sec2}>
