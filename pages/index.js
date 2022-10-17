@@ -53,18 +53,6 @@ export default function Home() {
       </section>
 
       <section id="sec2" >
-        <div className={styles.sec1}>
-              <Image
-                width={1600}
-                height={750}
-                src="/034 เจตจำนงสุจริตของผู้บริหาร และนโยบายไม่รับของขวัญ.png"
-              />
-            </a>
-       
-        </div>
-      </section>
-
-      <section id="sec2" >
         <div className={styles.sec2}>
           <Image
             className={styles.sec2pic1}
