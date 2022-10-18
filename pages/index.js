@@ -44,7 +44,7 @@ export default function Home() {
               <Image
                 width={1080}
                 height={290}
-                src="/034 เจตจำนงสุจริตของผู้บริหาร และนโยบายไม่รับของขวัญ.png"
+                src="/034.png"
               />
         </div>
       </section>
