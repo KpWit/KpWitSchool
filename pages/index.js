@@ -42,9 +42,9 @@ export default function Home() {
       <section id="sec1" >
         <div className={styles.sec1}>
               <Image
-                width={1080}
-                height={290}
-                src="/ITA.png"
+                width={1600}
+                height={750}
+                src="/034ng"
               />
         </div>
       </section>
