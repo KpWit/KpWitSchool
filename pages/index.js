@@ -44,7 +44,7 @@ export default function Home() {
               <Image
                 width={1080}
                 height={290}
-                src="/034.png"
+                src="/ITA.png"
               />
         </div>
       </section>
