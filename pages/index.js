@@ -67,8 +67,8 @@ export default function Home() {
         <div className={styles.sec2}>
           <Image
             className={styles.sec2pic1}
-            width={180}
-            height={230}
+            width={250}
+            height={300}
             src="/1 (1).png"
           />
           <div className={styles.sec2text1}>
