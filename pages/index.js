@@ -67,13 +67,14 @@ export default function Home() {
         <div className={styles.sec2}>
           <Image
             className={styles.sec2pic1}
-            width={480}
-            height={350}
-            src="/000.jpg"
+            width={180}
+            height={230}
+            src="/1 (1).png"
           />
           <div className={styles.sec2text1}>
             <center>
-            <h1>นายสิทธิโชค ทองโคตร</h1><br />
+            <h1>นายณัฐกานต์  เพชรนิล</h1><br />
+          <h3>รองผู้อำนวยการโรงเรียน รักษาการในตำแหน่ง</h3>
           <h3>ผู้อำนวยการโรงเรียนโคกปรงวิทยาคม</h3>
             </center>
           
