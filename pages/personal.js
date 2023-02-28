@@ -238,6 +238,19 @@ const school = () => {
                             <h3>เจ้าหน้าที่ธุรการ</h3>
                         </center>
                     </div>
+                    <div className={personalstyles.row4}>
+                    <div className={personalstyles.pic00}>
+                        <center>
+                            <Image
+                                className={personalstyles.pic01}
+                                width={180}
+                                height={230}
+                                src="/S__43860025.jpg"
+                            />
+                            <h2>นางสาวพัชราภรณ์ กวยทองเปลว </h2>
+                            <h3>เจ้าหน้าที่ทั่วไป</h3>
+                        </center>
+                    </div>
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
