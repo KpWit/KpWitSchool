@@ -101,19 +101,7 @@ const school = () => {
                             <h4>กลุ่มสาระฯ : สังคมศึกษา ศาสนาและวัฒนาธรรม</h4>
                         </center>
                     </div>
-                    <div className={personalstyles.pic00}>
-                        <center>
-                            <Image
-                                className={personalstyles.pic01}
-                                width={180}
-                                height={230}
-                                src="/6.png"
-                            />
-                            <h2>นางกอบกูล ศรีคำมี</h2>
-                            <h3>ครูชำนาญการพิเศษ</h3>
-                            <h4>กลุ่มสาระฯ : ภาษาต่างประเทศ</h4>
-                        </center>
-                    </div>
+                    
                     <div className={personalstyles.pic00}>
                         <center>
                             <Image
