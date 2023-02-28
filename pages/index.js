@@ -19,14 +19,7 @@ export default function Home() {
         </Head>
       </div>
       <Nav />
-      <div className={styles.banner}>
-        <div className={styles.container}>
-          <div className={styles.bannercon}>
-            <div className={styles.bannerpic}>
-            </div>
-          </div>
-        </div>
-      </div>
+      
 
       <section id="sec1" >
         <div className={styles.sec1}>
