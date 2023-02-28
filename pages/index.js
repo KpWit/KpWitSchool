@@ -23,10 +23,8 @@ export default function Home() {
         <div className={styles.container}>
           <div className={styles.bannercon}>
             <div className={styles.bannerpic}>
-
-           
-
-
+            </div>
+          </div>
         </div>
       </div>
 
