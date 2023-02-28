@@ -24,16 +24,7 @@ export default function Home() {
           <div className={styles.bannercon}>
             <div className={styles.bannerpic}>
 
-            </div>
-            <div className={styles.text}>
-              <div className={styles.head}>
-                <h3>โรงเรียนโคกปรงวิทยาคม สำนักงานเขตพื้นที่การศึกษามัธยมศึกษาเพชรบูรณ์</h3>
-              </div>
-              <div className={styles.subhead}>
-                <p>โรงเรียนโคกปรงวิทยาคม  มุ่งมั่นพัฒนาคุณภาพการศึกษา  บริหารจัดการโดยใช้เทคโนโลยี ยึดมั่นหลักธรรมาภิบาล  ภายใต้การมีส่วนร่วมชองชุมชน  ผู้เรียนมีคุณธรรมนำสู่ความเป็นมาตรฐานสากลบนพื้นฐานของปรัชญาเศรษฐกิจพอเพียง </p>
-              </div>
-            </div>
-          </div>
+           
 
 
         </div>
