@@ -26,7 +26,7 @@ export default function Home() {
               <Image
                 width={2048}
                 height={1024}
-                src="รับสมัครนักเรียน.jpg"
+                src="ITA(2).png"
               />
         </div>
       </section>
