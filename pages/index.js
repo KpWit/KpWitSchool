@@ -38,7 +38,7 @@ export default function Home() {
               <Image
                 width={1599}
                 height={807}
-                src="No Gift 2.png"
+                src="No Gift 2.PNG"
               />
         </div>
       </section>
