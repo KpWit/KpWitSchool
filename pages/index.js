@@ -36,9 +36,9 @@ export default function Home() {
       <section id="sec1" >
         <div className={styles.sec1}>
               <Image
-                width={1280}
-                height={600}
-                src="/034.png"
+                width={1123}
+                height={567}
+                src="/No Gift 2.png"
               />
         </div>
       </section>
