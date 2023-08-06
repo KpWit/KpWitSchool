@@ -24,8 +24,8 @@ export default function Home() {
       <section id="sec1" >
         <div className={styles.sec1}>
               <Image
-                width={2048}
-                height={1024}
+                width={1599}
+                height={378}
                 src="ITA(2).png"
               />
         </div>
