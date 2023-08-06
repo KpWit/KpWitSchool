@@ -23,11 +23,13 @@ export default function Home() {
 
       <section id="sec1" >
         <div className={styles.sec1}>
+            <a href="https://shorturl.asia/jnJPB">
               <Image
                 width={1599}
                 height={378}
                 src="ITA(2).png"
               />
+            </a>
         </div>
       </section>
 
@@ -38,20 +40,6 @@ export default function Home() {
                 height={600}
                 src="/034.png"
               />
-        </div>
-      </section>
-
-
-      <section id="sec1" >
-        <div className={styles.sec1}>
-            <a href="https://shorturl.asia/jnJPB">
-              <Image
-                width={1080}
-                height={290}
-                src="/ITA.png"
-              />
-            </a>
-       
         </div>
       </section>
 
