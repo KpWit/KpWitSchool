@@ -44,7 +44,7 @@ export default function Home() {
         </div>
       </section>
   
-      section id="sec1" >
+      <section id="sec1" >
         <div className={styles.sec1}>
               <Image
                 width={1599}
