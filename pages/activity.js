@@ -37,6 +37,7 @@ const school = () => {
                             height="849"
                             src="วารสาร-4.png"
                         />        
+                                
                 </center>
                 </div>
             </section>
