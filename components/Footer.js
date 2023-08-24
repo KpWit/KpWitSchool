@@ -32,7 +32,7 @@ function Footer() {
                             <li><Link href='/school'><button>ข้อมูลโรงเรียน</button></Link></li>
                             <li><Link href='/personal'><button>บุคลากร</button></Link></li>
                             <li><Link href='/student'><button>ข้อมูลนักเรียน</button></Link></li>
-                            <li><Link href='/activity'><button>ประชาสัมพันธ์</button></Link></li>
+                            <li><Link href='/activity'><button>กิจกรรม</button></Link></li>
                             <li><Link href='/contact'><button>ติดต่อเรา</button></Link></li>
                         </ul>
                     </center>
