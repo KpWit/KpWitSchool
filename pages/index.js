@@ -1,4 +1,4 @@
-import Head from 'next/head'
+ใimport Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Nav from '../components/Nav.js'
 import Footer from '../components/Footer.js'
@@ -74,16 +74,7 @@ export default function Home() {
           
         </div>
       </section>
-       <section id="sec2" >
-        <div className={styles.sec1}>
-              <Image
-                width={600}
-                height={849}
-                src="วารสาร-1.png"
-                  
-              />
-        </div>
-      </section>        
+          
       <section id="sec3" >
 
         <div className={styles.sec3}>
