@@ -20,25 +20,25 @@ const school = () => {
                         <Image
                             width="600"
                             height="849"
-                            src="/วารสาร-1.png"
+                            src=/"วารสาร-1.png"
                         />
                         <Image
                             width="600"
                             height="849"
-                            src="/วารสาร-2.png"
+                            src=/"วารสาร-2.png"
                         />
                         <Image
                             width="600"
                             height="849"
-                            src="/วารสาร-3.png"
+                            src=/"วารสาร-3.png"
                         />
                         <Image
                             width="600"
                             height="849"
-                            src="/วารสาร-4.png"
+                            src=/"วารสาร-4.png"
                         />                     
-                    </center>
-                    </div>
+                </center>
+                </div>
             </section>
             <Footer />
         </>
