@@ -10,7 +10,7 @@ const school = () => {
             <Nav />
             <div className={activitystyles.banner}>
                 <div className={activitystyles.container}>
-                    <h1>ประชาสัมพันธ์</h1>
+                    <h1>กิจกรรม</h1>
                 </div>
             </div>
             <section>
@@ -36,10 +36,9 @@ const school = () => {
                             width="600"
                             height="849"
                             src="/วารสาร-4.png"
-                        />        
-                                
-                </center>
-                </div>
+                        />                     
+                    </center>
+                    </div>
             </section>
             <Footer />
         </>
