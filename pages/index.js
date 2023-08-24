@@ -1,4 +1,4 @@
-ใimport Head from 'next/head'
+import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Nav from '../components/Nav.js'
 import Footer from '../components/Footer.js'
