@@ -74,6 +74,16 @@ export default function Home() {
           
         </div>
       </section>
+       <section id="sec2" >
+        <div className={styles.sec1}>
+              <Image
+                width={600}
+                height={849}
+                src="วารสาร-1.png"
+                  
+              />
+        </div>
+      </section>        
       <section id="sec3" >
 
         <div className={styles.sec3}>
