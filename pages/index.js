@@ -25,8 +25,8 @@ export default function Home() {
         <div className={styles.sec1}>
             <a href="https://shorturl.asia/jnJPB">
               <Image
-                width={2870}
-                height={1617}
+                width={1599}
+                height={901}
                 src="ปก-1.png"
               />
             </a>
